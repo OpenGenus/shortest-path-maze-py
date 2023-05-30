@@ -22,11 +22,10 @@ Python 3.6 or later
 pygame 2.3.0 or later
 
 ## Screenshots
+[Screenshot of the terminal running the maze solver program]
 
-![Screenshot of the project](images/terminal.png)
+![terminal screenshot](images/terminal.png)
 
-[Description of the screenshot]
+[Maze solver in action]
 
-![Screenshot of the project](images/maze.png)
-
-[Description of the screenshot]
+![maze solver in action](images/maze.png)
